@@ -2,7 +2,6 @@
 
 
 
-# Hybrid File Encryption Tool
 
 A Python-based tool for secure file encryption and decryption using **hybrid cryptography**. This combines **RSA asymmetric encryption** for the key exchange and **Fernet symmetric encryption** for encrypting file content. Ideal for securely sharing files without exposing the raw symmetric key.
 
